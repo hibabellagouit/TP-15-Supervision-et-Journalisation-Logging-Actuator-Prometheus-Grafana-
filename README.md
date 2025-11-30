@@ -85,8 +85,9 @@ La configuration définit :
 Grâce à son interface Web, il est possible d’exécuter des requêtes **PromQL** pour analyser les métriques (taux de requêtes, temps de réponse, mémoire, etc.).
 
 ---
+![WhatsApp Image 2025-11-29 at 11 58 57](https://github.com/user-attachments/assets/b75d777f-f2de-4cf3-bf43-9b9177e10326)
+![WhatsApp Image 2025-11-29 at 11 58 57 (1)](https://github.com/user-attachments/assets/059c3da0-8741-4524-9023-d796dc88ab93)
 
-![Uploading WhatsApp Image 2025-11-29 at 11.58.57 (1).jpeg…]()
 
 ## 6️⃣ Visualisation avec Grafana
 
@@ -124,6 +125,8 @@ Permet de créer des alertes visuelles liées à :
 L’objectif est de détecter les incidents avant leur propagation.
 
 ---
+![WhatsApp Image 2025-11-29 at 11 58 57 (2)](https://github.com/user-attachments/assets/3ba02fb6-dc1f-4c1c-b5a1-03c24b14de4e)
+![WhatsApp Image 2025-11-29 at 11 58 57 (3)](https://github.com/user-attachments/assets/6aa9bc68-19e5-43c3-b519-f7e86ac1851b)
 
 ## 8️⃣ Conteneurisation de l’infrastructure de supervision
 
